@@ -1,0 +1,24 @@
+{
+    "people": [
+        {
+            "name": "Phuong",
+            "web": "csc.edu.vn",
+            "from": "TTTH"
+        },
+        {
+            "name": "Phuong2",
+            "web": "csc2.edu.vn",
+            "from": "TTTH2"
+        },
+        {
+            "name": "Phuong3",
+            "web": "csc3.edu.vn",
+            "from": "TTTH3"
+        },
+        {
+            "name": "Phuong4",
+            "web": "csc4.edu.vn",
+            "from": "TTTH4"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dsnv": [
+        {
+            "MaNV": "123",
+            "HoTenNV": "Nguyen A",
+            "DiaChi": "HCM"
+        },
+        {
+            "MaNV": "456",
+            "HoTenNV": "Le B",
+            "DiaChi": "HN"
+        },
+        {
+            "MaNV": "789",
+            "HoTenNV": "Tran C",
+            "DiaChi": "DN"
+        }
+    ]
+}

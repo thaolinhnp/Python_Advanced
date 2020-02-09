@@ -1,0 +1,15 @@
+python NC (7h30 - 12h15)
+dhhoang77@gmail.com
+S7CN
+ky thuat lap trinh (list, tuple, distionary, set)
+Lap trinh: Tu duy lap trinh + ngon ngu lap trinh => Lap trinh may tinh
+
+Doi tuong: Thong tin doi tuong, hanh vi doi tuong
+VD: Dien thoai: MaS, Ten, NSX, NgaySX, TGBH, NuocSX,...
+
+Doi tuong -> class
+class bieu dien thong tin doi tuong doi tuong = thuoc tinh
+hanh vi cua doi tuong -> phuong thuc
+class Doi_tuong():
+    cac thuoc tinh cua doi tuong (attribute)
+    phuong thuc de xu ly doi tuong (method)
